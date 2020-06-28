@@ -204,3 +204,32 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u262_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:365px;
+  height:590px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u262 {
+  position:absolute;
+  left:331px;
+  top:81px;
+  width:365px;
+  height:590px;
+}
+#u263 {
+  position:absolute;
+  left:2px;
+  top:287px;
+  width:361px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
