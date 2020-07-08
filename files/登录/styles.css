@@ -179,8 +179,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:219px;
-  height:40px;
+  width:296px;
+  height:48px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -191,16 +191,16 @@
 }
 #u13 {
   position:absolute;
-  left:416px;
-  top:486px;
-  width:219px;
-  height:40px;
+  left:375px;
+  top:510px;
+  width:296px;
+  height:48px;
 }
 #u14 {
   position:absolute;
   left:2px;
-  top:12px;
-  width:215px;
+  top:16px;
+  width:292px;
   visibility:hidden;
   word-wrap:break-word;
 }
